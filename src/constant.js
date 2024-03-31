@@ -1,2 +1,0 @@
-const contractAddress = "";
-const constantAbi = "";
